@@ -29,3 +29,9 @@ Finally, in the directory of your plugin, get the latest type definitions for th
 # :railway_track: Inspiration
 
 [Color Theory: A Simple Exercise in Mathematics and Graphic Design](https://blog.matthewgove.com/2021/07/02/color-theory-a-simple-exercise-in-mathematics-and-graphic-design/)
+
+# :clipboard: License
+
+MIT
+
+
