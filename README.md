@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/Liam-hi/figma-color-combinations/blob/master/media/color-combinations.gif?raw=true)
 
-:atom:
+# :atom: Introduction
 
 
 Below are the steps to get your plugin running. You can also find instructions at:
