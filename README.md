@@ -2,13 +2,13 @@
 
 # :recycle: Introduction
 
-- Rather than the manual process of hand-picking colors, all colors that Color Combinations provides are generated from a set of rules.
+Rather than the manual process of hand-picking colors, all colors that Color Combinations provides are generated from a set of rules.
 
-# :warning: Developer preview
+# :construction: Developer preview
 
--  Intended for usage by developers only.
+Intended for usage by developers only.
 
-# ::unlock:: Development
+# :unlock: Development
 
 This plugin template uses Typescript and NPM, two standard tools in creating JavaScript applications.
 
@@ -24,3 +24,8 @@ Next, install TypeScript using the command:
 Finally, in the directory of your plugin, get the latest type definitions for the plugin API by running:
 
   npm install --save-dev @figma/plugin-typings
+  
+ 
+# :railway_track: Inspiration
+
+[Color Theory: A Simple Exercise in Mathematics and Graphic Design]([https://www.google.com](https://blog.matthewgove.com/2021/07/02/color-theory-a-simple-exercise-in-mathematics-and-graphic-design/))
