@@ -2,7 +2,7 @@
 
 # :recycle: Introduction
 
-
+- All colors that Color Combinations provides are generated from a set of rules, rather than the manual process of hand-picking colors.
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/setup/
