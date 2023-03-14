@@ -2,7 +2,7 @@
 
 # :recycle: Introduction
 
--Rather than the manual process of hand-picking colors, all colors that Color Combinations provides are generated from a set of rules.
+- Rather than the manual process of hand-picking colors, all colors that Color Combinations provides are generated from a set of rules.
 
 # :warning: Caution
 
