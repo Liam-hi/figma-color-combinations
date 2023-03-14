@@ -1,6 +1,14 @@
-Below are the steps to get your plugin running. You can also find instructions at:
+![Alt Text](https://github.com/Liam-hi/figma-color-combinations/blob/master/media/color-combinations.gif?raw=true)
 
-  https://www.figma.com/plugin-docs/setup/
+# :recycle: Introduction
+
+Rather than the manual process of hand-picking colors, all colors that Color Combinations provides are generated from a set of rules.
+
+# :construction: Developer preview
+
+Intended for usage by developers only.
+
+# :unlock: Development
 
 This plugin template uses Typescript and NPM, two standard tools in creating JavaScript applications.
 
@@ -16,25 +24,14 @@ Next, install TypeScript using the command:
 Finally, in the directory of your plugin, get the latest type definitions for the plugin API by running:
 
   npm install --save-dev @figma/plugin-typings
+  
+ 
+# :railway_track: Inspiration
 
-If you are familiar with JavaScript, TypeScript will look very familiar. In fact, valid JavaScript code
-is already valid Typescript code.
+[Color Theory: A Simple Exercise in Mathematics and Graphic Design](https://blog.matthewgove.com/2021/07/02/color-theory-a-simple-exercise-in-mathematics-and-graphic-design/)
 
-TypeScript adds type annotations to variables. This allows code editors such as Visual Studio Code
-to provide information about the Figma API while you are writing code, as well as help catch bugs
-you previously didn't notice.
+# :clipboard: License
 
-For more information, visit https://www.typescriptlang.org/
+MIT
 
-Using TypeScript requires a compiler to convert TypeScript (code.ts) into JavaScript (code.js)
-for the browser to run.
 
-We recommend writing TypeScript code using Visual Studio code:
-
-1. Download Visual Studio Code if you haven't already: https://code.visualstudio.com/.
-2. Open this directory in Visual Studio Code.
-3. Compile TypeScript to JavaScript: Run the "Terminal > Run Build Task..." menu item,
-    then select "npm: watch". You will have to do this again every time
-    you reopen Visual Studio Code.
-
-That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
