@@ -2,7 +2,8 @@
 
 ## :recycle: Introduction
 
-Rather than the manual process of hand-picking colors, all colors that Color Combinations provides are generated from a set of rules.
+Color Combinations doesn't involve the manual process of selecting colors by hand. Instead, the tool generates all the colors using a pre-defined set of rules. As you scroll with your mouse, the tool dynamically generates a variety of different color combinations.
+If you're looking to experiment with various color combinations for your design, Color Combinations is the ideal tool as it allows you to effortlessly try out different color schemes with ease.
 
 ## :construction: Developer preview
 
